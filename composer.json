@@ -1,10 +1,10 @@
 {
-    "name": "smartisan/settings",
+    "name": "walidos/laravel-settings",
     "description": "App & Models Settings for Laravel",
     "keywords": [
         "laravel-settings"
     ],
-    "homepage": "https://github.com/itsmohd/settings",
+    "homepage": "https://github.com/walidos/laravel-settings",
     "license": "MIT",
     "authors": [
         {
@@ -15,8 +15,8 @@
     "require": {
         "php": "^8.1",
         "ext-json": "*",
-        "illuminate/database": "^10.0",
-        "illuminate/support": "^10.0"
+        "illuminate/database": "^10.0|^11.0",
+        "illuminate/support": "^10.0|^11.0"
     },
     "require-dev": {
         "laravel/pint": "^1.5",
